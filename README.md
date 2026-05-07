@@ -6,7 +6,7 @@
   <a href="https://github.com/deysandip301"><img src="https://img.shields.io/badge/GitHub-deysandip301-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/sandipdey301"><img src="https://img.shields.io/badge/LinkedIn-sandipdey301-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://www.leetcode.com/deysandip301"><img src="https://img.shields.io/badge/LeetCode-Knight_1972-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/deysandip301"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/A_sky_dreams"https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </div>
 
 <br/>
