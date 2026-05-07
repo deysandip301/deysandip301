@@ -54,8 +54,8 @@ PID    USER      PRI  NI  VIRT   RES   SHR S  CPU%  MEM%  TIME+   COMMAND
 ### `> cat /var/log/syslog | grep "system-stats"`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deysandip301&show_icons=true&bg_color=0d1117&text_color=58a6ff&icon_color=39ff14&title_color=39ff14&border_color=30363d&rank_icon=github" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deysandip301&layout=compact&bg_color=0d1117&text_color=58a6ff&title_color=39ff14&border_color=30363d" alt="top languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=deysandip301&show_icons=true&bg_color=0d1117&text_color=58a6ff&icon_color=39ff14&title_color=39ff14&border_color=30363d" alt="stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=deysandip301&layout=compact&bg_color=0d1117&text_color=58a6ff&title_color=39ff14&border_color=30363d" alt="top languages" />
 </div>
 
 <br/>
@@ -65,7 +65,6 @@ PID    USER      PRI  NI  VIRT   RES   SHR S  CPU%  MEM%  TIME+   COMMAND
 Connection established.
 If you are building low-latency systems, storage engines, or infra that lives close to the metal...
 Let's talk:
-  📧 Email: sandip.23bcs10114@sst.scaler.com 
-  📱 Ping : +91-6290497056
+    Email: deysandip301@gmail.com 
 ```
 
