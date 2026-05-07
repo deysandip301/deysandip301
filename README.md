@@ -1,33 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sandip Dey</h1>
-<h3 align="center">A passionate problem solver</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e75b6&height=200&section=header&text=sandip@core-systems%20~$&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=58a6ff&desc=Systems%20%7C%20Low-Latency%20%7C%20Architecture&descAlignY=55&descAlign=50" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deysandip301&label=Profile%20views&color=0e75b6&style=flat" alt="deysandip301" /> </p>
+<div align="center">
+  <a href="https://github.com/deysandip301"><img src="https://img.shields.io/badge/GitHub-deysandip301-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/sandipdey301"><img src="https://img.shields.io/badge/LinkedIn-sandipdey301-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.leetcode.com/deysandip301"><img src="https://img.shields.io/badge/LeetCode-Knight_1972-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/deysandip301"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deysandip301" alt="deysandip301" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **DSA , finance and development**
+### `> whoami`
+```yaml
+name: "Sandip Dey"
+role: "Core Systems Engineer"
+obsession: ["Low-latency architecture", "Cache locality", "Storage internal mechanics"]
+mission: "Build fast, correct, low-level systems. Sweat the constants. Measure everything."
+```
 
-- 📫 How to reach me **deysandip301@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### `> ls -la /opt/tech-stack/`
 <p align="left">
-<a href="https://twitter.com/deysandip301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deysandip301" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandipdey301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipdey301" height="30" width="40" /></a>
-<a href="https://fb.com/deysandip301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deysandip301" height="30" width="40" /></a>
-<a href="https://instagram.com/deysandip301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deysandip301" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deysandip301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deysandip301" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/deysandip301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deysandip301" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deysandip301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deysandip301" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/deysandip301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deysandip301" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/deysandip301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="deysandip301" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,go,python,java,linux,docker,kubernetes,redis,aws,git,bash&perline=12" alt="tech stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### `> ./build_projects.sh --verbose --release`
+```diff
+@@ SQLyt - Custom B+ Tree SQL Database @@
++ Designed layered DB architecture: parser -> B+ tree -> pager
++ Implemented write-ahead logging (WAL) for durability & crash recovery
+! Core focus: Reliable query execution & page caching in C
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deysandip301&show_icons=true&locale=en&layout=compact" alt="deysandip301" /></p>
+@@ LimitOrderBook - HFT Trading Infrastructure @@
++ Engineered ultra-low-latency LOB with sub-100ns operations in C++
++ Built custom hash maps, memory pools, and vector-based price levels
+! Outperformed baselines: 6M-10M ops/sec throughput via preallocation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deysandip301&show_icons=true&locale=en" alt="deysandip301" /></p>
+@@ Redis Clone - High-performance K/V Store @@
++ Multi-threaded architecture, thread-pool, and non-blocking I/O
++ Supported TTL, sorted sets, and LRU-based adaptive eviction
+! Accelerated read/writes using zero-copy buffers and batched writes
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deysandip301&" alt="deysandip301" /></p>
+### `> htop -u sandip --filter competitive_programming`
+```bash
+PID    USER      PRI  NI  VIRT   RES   SHR S  CPU%  MEM%  TIME+   COMMAND
+1337   sandip     20   0  1972G  150G  20G S  99.9  10.0  2000h+  /usr/bin/leetcode --rank=Knight --rating=1972
+1452   sandip     20   0  1700G  110G  15G R  85.4  08.0  1000h+  /usr/bin/codechef --rating=1700+
+2024   sandip     20   0  0188G  050G  05G S  95.0  12.0  0048h+  /usr/bin/icpc --region=Amritapuri --rank=AIR_188
+1561   sandip     20   0  1561G  040G  04G S  90.0  09.0  0024h+  /usr/bin/metahackercup --rank=1561
+```
+
+### `> cat /var/log/syslog | grep "system-stats"`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deysandip301&show_icons=true&bg_color=0d1117&text_color=58a6ff&icon_color=39ff14&title_color=39ff14&border_color=30363d&rank_icon=github" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deysandip301&layout=compact&bg_color=0d1117&text_color=58a6ff&title_color=39ff14&border_color=30363d" alt="top languages" />
+</div>
+
+<br/>
+
+### `> ssh sandip@hft.systems`
+```bash
+Connection established.
+If you are building low-latency systems, storage engines, or infra that lives close to the metal...
+Let's talk:
+  📧 Email: sandip.23bcs10114@sst.scaler.com 
+  📱 Ping : +91-6290497056
+```
 
